@@ -1,0 +1,6 @@
+streamlit
+pandas
+feedparser
+fpdf
+python-nmap
+groq
